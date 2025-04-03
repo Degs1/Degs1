@@ -27,7 +27,8 @@
 ![java](https://img.shields.io/badge/java-red?style=for-the-badge&labelColor=black&logo=openjdk)
 ![mongodb](https://img.shields.io/badge/mongodb-green?style=for-the-badge&labelColor=black&logo=mongodb)
 
-
+## Completed project
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Degs1&repo=formsolverkey&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Degs1/formsolverkey)
 
 ## Sosial Media
 <p>
@@ -35,8 +36,6 @@
 <a href="https://www.tiktok.com/@utore.gt" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/tiktok.svg" alt="@utore.gt" height="40" width="40" /></a>
 </p>
 
-## Completed project
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Degs1&repo=formsolverkey&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Degs1/formsolverkey)
 
 ## Support & Donation
 <a href="https://saweria.co/Degs" target="blank"><image align="center" src="https://i.ibb.co.com/B5WzY9jV/saweria.jpg" alt="saweria" height="100">
